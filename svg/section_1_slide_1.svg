@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1200"
+   height="900"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m 311.84483,38.965507 c -9.15435,0 -16.48611,7.414611 -16.48611,16.568965 l -0.0829,132.551718 c 0,9.15436 7.33176,16.56897 16.48612,16.56897 h 99.49663 c 9.15436,0 16.56897,-7.41461 16.56897,-16.56897 V 88.672402 l -49.7069,-49.706895 h -66.27586 z m 57.99139,57.991382 v -45.56466 l 45.56465,45.56466 h -45.56465 z"
+     id="path7301"
+     style="fill:#469ae9" />
+  <path
+     d="m 567.87931,38.965507 c -9.15435,0 -16.48611,7.414611 -16.48611,16.568965 l -0.0829,132.551718 c 0,9.15436 7.33176,16.56897 16.48612,16.56897 h 99.49663 c 9.15436,0 16.56897,-7.41461 16.56897,-16.56897 V 88.672402 l -49.7069,-49.706895 h -66.27586 z m 57.99139,57.991382 v -45.56466 l 45.56465,45.56466 H 625.8707 z"
+     id="path7310"
+     style="fill:#469ae9" />
+  <path
+     d="m 800.63793,38.965507 c -9.15435,0 -16.48611,7.414611 -16.48611,16.568965 l -0.0829,132.551718 c 0,9.15436 7.33176,16.56897 16.48612,16.56897 h 99.49663 c 9.15436,0 16.56897,-7.41461 16.56897,-16.56897 V 88.672402 l -49.7069,-49.706895 h -66.27586 z m 57.99139,57.991382 v -45.56466 l 45.56465,45.56466 h -45.56465 z"
+     id="path7312"
+     style="fill:#469ae9" />
+  <text
+     x="521.85559"
+     y="256.72034"
+     id="text4256"
+     xml:space="preserve"
+     style="font-size:68.54337311px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#469ae9;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="521.85559"
+       y="256.72034"
+       id="tspan4260"
+       style="font-size:54.83470154px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#469ae9;fill-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold">p2.sql</tspan></text>
+  <text
+     x="771.05933"
+     y="256.72034"
+     id="text4264"
+     xml:space="preserve"
+     style="font-size:68.54337311px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#469ae9;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="771.05933"
+       y="256.72034"
+       id="tspan4266"
+       style="font-size:54.83470154px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#469ae9;fill-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold">p3.py</tspan></text>
+  <text
+     x="293.57324"
+     y="256.72034"
+     id="text4339"
+     xml:space="preserve"
+     style="font-size:68.54337311px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#469ae9;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+       x="293.57324"
+       y="256.72034"
+       id="tspan4341"
+       style="font-size:54.83470154px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#469ae9;fill-opacity:1;font-family:Courier New;-inkscape-font-specification:Courier New Bold">p1.R</tspan></text>
+</svg>
